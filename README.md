@@ -4,8 +4,14 @@
 
 🌱 I’m currently learning Flutter, Gatsby, Django.
 
-📫 How to reach me: Email or Twitter[[@psnzbss](https://twitter.com/psnzbss)]
+## 📫 Contact me.
 
+[![Twitter](https://img.shields.io/badge/-@psnzbss-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/psnzbss)
+
+## ⚡ Status
+
+[![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/psbss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbss&layout=compact&theme=tokyonight)](https://github.com/psbss/github-readme-stats)
 
 <!--
 **psbss/psbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
