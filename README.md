@@ -10,8 +10,8 @@
 
 ## ⚡ Status
 
-[![Yuki's github stats](https://github-readme-stats.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/psbss/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psbss&layout=compact&theme=tokyonight)](https://github.com/psbss/)
+[![Yuki's github stats](https://readme-stats.psbss.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/psbss/)
+[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=psbss&layout=compact&theme=tokyonight)](https://github.com/psbss/)
 
 <!--
 **psbss/psbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
