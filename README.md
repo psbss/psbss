@@ -13,8 +13,6 @@
 
 ![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff)
-
-
 ![Gatsby.js](https://img.shields.io/badge/-gatsby.js-663399?style=for-the-badge&logo=gatsby&logoColor=ffffff)
 ![BootStrap](https://img.shields.io/badge/-bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
