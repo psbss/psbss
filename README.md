@@ -6,21 +6,21 @@
 
 ### Language
 
-![JavaScript](https://img.shields.io/badge/-javascript-323330?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)
-![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+[![JavaScript](https://img.shields.io/badge/-javascript-323330?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 ### Frameworks
 
-![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff)
-![Gatsby.js](https://img.shields.io/badge/-gatsby.js-663399?style=for-the-badge&logo=gatsby&logoColor=ffffff)
-![BootStrap](https://img.shields.io/badge/-bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+[![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
+[![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
+[![Gatsby.js](https://img.shields.io/badge/-gatsby.js-663399?style=for-the-badge&logo=gatsby&logoColor=ffffff)](https://www.gatsbyjs.com/)
+[![BootStrap](https://img.shields.io/badge/-bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
 
 ### Tools
 
-![Sass](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=8DD6F9)
+[![Sass](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=for-the-badge&logo=webpack&logoColor=8DD6F9)](https://webpack.js.org/)
 
 ## 📫 Contact me.
 
