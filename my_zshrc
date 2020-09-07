@@ -1,8 +1,13 @@
 # shell settings
+## zsh auto complement
 autoload -U compinit
 compinit
+
+## prompt initialize
 autoload -U promptinit
 promptinit
+
+## use prompt pure
 prompt pure
 
 # alias
