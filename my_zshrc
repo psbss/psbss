@@ -13,6 +13,8 @@ prompt pure
 # alias
 alias ll="ls -l"
 alias la="ls -la"
+alias rmf="rm -f"
+alias rmr="rm -rf"
 
 # PATH settings
 export PATH="$PATH:$HOME/development/flutter/bin"
