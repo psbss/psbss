@@ -4,17 +4,18 @@
 
 ## 🌱 Learning
 
-[![javascript](https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![Swift](https://img.shields.io/badge/-Swift-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=swift)](https://www.apple.com/jp/swift/)
-[![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=python)](https://www.python.org/)
+[![javascript](https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![Swift](https://img.shields.io/badge/-Swift-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=swift)](https://www.apple.com/jp/swift/)
+[![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=python)](https://www.python.org/)
 
-[![Django](https://img.shields.io/badge/-Django-ffffff?style=for-the-badge&labelColor=092E20&logo=django)](https://www.djangoproject.com/)
-[![Flutter](https://img.shields.io/badge/-flutter-ffffff?style=for-the-badge&labelColor=02569B&logo=flutter)](https://flutter.dev/)
-[![Gatsby.js](https://img.shields.io/badge/-gatsby.js-ffffff?style=for-the-badge&labelColor=663399&logo=gatsby)](https://www.gatsbyjs.com/)
-[![BootStrap](https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=bootstrap)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=tailwind-css)](https://tailwindcss.com/)
-[![Sass](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=sass)](https://sass-lang.com/)
-[![Webpack](https://img.shields.io/badge/-webpack-ffffff?style=for-the-badge&labelColor=f5f5f5&logo=webpack)](https://webpack.js.org/)
+[![Django](https://img.shields.io/badge/-Django-ffffff?style=for-the-badge&labelColor=092E20&color=f5f5f5&logo=django)](https://www.djangoproject.com/)
+[![Flutter](https://img.shields.io/badge/-flutter-ffffff?style=for-the-badge&labelColor=02569B&color=f5f5f5&logo=flutter)](https://flutter.dev/)
+[![Gatsby.js](https://img.shields.io/badge/-gatsby.js-ffffff?style=for-the-badge&labelColor=663399&color=f5f5f5&logo=gatsby)](https://www.gatsbyjs.com/)
+[![BootStrap](https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=bootstrap)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=tailwind-css)](https://tailwindcss.com/)
+
+[![Sass](https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=sass)](https://sass-lang.com/)
+[![Webpack](https://img.shields.io/badge/-webpack-ffffff?style=for-the-badge&labelColor=f5f5f5&color=f5f5f5&logo=webpack)](https://webpack.js.org/)
 
 ## 📫 Contact
 
