@@ -11,7 +11,7 @@ sudoRequired() {
 copyZshrc() {
   cp ../settings/.zshrc $HOME/
   cp ../settings/.zprofile $HOME/
-  source $HOME/zshrc
+  source $HOME/.zshrc
 }
 
 installBrew() {
