@@ -21,4 +21,4 @@
 
 ## ⚡ Status
 [![Yuki's github stats](https://readme-stats.psbss.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/psbss/)
-[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=psbss&hide=php,blade&layout=compact&theme=algolia)](https://github.com/psbss/)
+[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=psbss&layout=compact&theme=algolia)](https://github.com/psbss/)
