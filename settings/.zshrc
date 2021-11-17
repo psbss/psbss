@@ -19,4 +19,15 @@ alias rmf="rm -f"
 alias rmr="rm -rf"
 
 # PATH settings
+## nodebrew
 export PATH=$HOME/.nodebrew/current/bin:$PATH
+
+## rbenv
+export PATH=${HOME}/.rbenv/bin:${PATH}
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
+eval "$(rbenv init -)"
+
+## python
+export PATH=/usr/local/opt/python@3.9/libexec/bin:$PATH

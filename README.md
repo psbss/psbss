@@ -20,5 +20,5 @@
 [![Webpack](https://img.shields.io/badge/-webpack-ffffff?style=for-the-badge&labelColor=8DD6F9&logoColor=ffffff&color=f5f5f5&logo=webpack)](https://webpack.js.org/)
 
 ## ⚡ Status
-[![Yuki's github stats](https://readme-stats.psbss.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/psbss/)
-[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=psbss&hide=php,blade&layout=compact&theme=algolia)](https://github.com/psbss/)
+[![Yuki's github stats](https://github-readme-stats-psbss.vercel.app/api?username=psbss&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/psbss/)
+[![Top used Langs](https://github-readme-stats-psbss.vercel.app/api/top-langs/?username=psbss&layout=compact&theme=algolia)](https://github.com/psbss/)
