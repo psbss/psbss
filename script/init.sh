@@ -19,39 +19,25 @@ installBrew() {
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 }
 
-nodebrewSetup() {
-  nodebrew -v
-  nodebrew install-binary stable
-  nodebrew use stable
-  node -v
-  npm -v
-}
-
 installBrewPackage() {
   brew install gh
-  brew install mas
+  brew install git
+  brew install rbenv
+  brew tap homebrew/cask-fonts
   brew install cask-fonts
   brew install font-hackgen-nerd
-  brew install nodebrew
-  nodebrewSetup
 }
 
 installBrewCasks() {
   brew install --cask google-chrome
+  brew install --cask slack
+  brew install --cask warp
+  brew install --cask fork
+  brew install --cask raycast
   brew install --cask visual-studio-code
-  brew install --cask bitwarden
-  brew install --cask karabiner-elements
   brew install --cask google-japanese-ime
-  brew install --cask iterm2
-  brew install --cask obs
   brew install --cask figma
-}
-
-installAppStoreApp() {
-  mas install 539883307 # LINE
-  mas install 497799835 # Xcode
-  mas install 441258766 # Magnet
-  mas install 490461369 # Bandwidth+
+  brew install --cask xcodes
 }
 
 main() {
@@ -65,8 +51,6 @@ main() {
   installBrewPackage
   echo "install brew casks"
   installBrewCasks
-  echo "install AppStore Application"
-  installAppStoreApp
 }
 
 # --------------------------------------------------------------- #
