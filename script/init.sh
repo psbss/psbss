@@ -38,6 +38,7 @@ installBrewCasks() {
   brew install --cask google-japanese-ime
   brew install --cask figma
   brew install --cask xcodes
+  brew install --cask macs-fan-control
 }
 
 main() {
