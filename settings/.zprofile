@@ -1,4 +1,5 @@
+## HomeBrew
 eval $(/opt/homebrew/bin/brew shellenv)
 
-## mint
-export PATH=$HOME/.mint/bin:$PATH
+## Git
+export PATH=/usr/local/bin/git:$PATH
