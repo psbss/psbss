@@ -7,7 +7,7 @@
 - Job: iOS Engineer
 - Interest: Web3.0
 - Blog: [blog.ue-y.me](https://blog.ue-y.me)
-- Twitter: [@psnzbss](https://twitter.com/psnzbss)
+- X: [@psnzbss](https://twitter.com/psnzbss)
 
 ## :clipboard: Status
 
